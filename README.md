@@ -39,3 +39,6 @@ I performed real-world, preproduction test of the crowdsale. To do so, the follo
 
 
 - Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised
+
+![image](https://user-images.githubusercontent.com/98672852/180325041-d4b6b233-7c3d-4cc1-b669-8911ee35f5ca.png)
+
